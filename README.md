@@ -1,4 +1,5 @@
-# Lecture2-Cipherschool
+# CIPHERSCHOOLPROJECT
+
 import java.util.Scanner;
 
 class Node {
